@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+streamlit
+matplotlib
+tensorflow
+python-pptx
+python-docx
